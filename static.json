@@ -1,4 +1,5 @@
 {
+  "https_only": true,
   "proxies": {
     "/": {
       "origin": "http://embroker-staging-774760547.us-west-1.elb.amazonaws.com/"
